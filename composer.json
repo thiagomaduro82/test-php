@@ -1,0 +1,11 @@
+{
+    "name": "exads/phptest",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "exads/ab-test-data": "^1.0"
+    }
+}
